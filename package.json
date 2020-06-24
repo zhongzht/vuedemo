@@ -2,7 +2,7 @@
   "name": "vue-demo-sale-platform",
   "version": "2.0.0",
   "description": "a demo sale platform use vue2.0",
-  "author": "fishenal <yu_dong_han@hotmail.com>",
+  "author": "",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js"
